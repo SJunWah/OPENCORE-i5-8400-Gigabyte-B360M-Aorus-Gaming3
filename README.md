@@ -6,7 +6,7 @@ Processor : Intel Core i5-8400 (Coffee Lake)
 
 Motherboard : Gigabyte B360M Aorus Gaming 3
 
-Ram: 8GB 2666mhz
+Ram: 16GB 2666mhz
 
 SSD : Zotac 120GB, Crucial MX500 500GB
 
@@ -16,13 +16,13 @@ Internal Graphics : Intel UHD Graphics 630 2048 MB
 
 External Grapics : Gigabyte GTX 1050 ti (Disabled in MacOs 11 Big Sur)
 
-WIFI & Bluetooth : BCM43142A0
+WIFI & Bluetooth : Intel AC 9560
 
 Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 ```
 
 ## Software
-- OpenCore 0.7.0
+- OpenCore 0.9.3 (Supported up to Ventura)
 - macOS Big Sur 11.2
 
 ## BIOS Setting
